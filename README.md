@@ -1,6 +1,6 @@
 # 燕云 Logs
 
-本项目不保证及时维护，平替可以移步 https://yylogs.dreemurr.net/
+本项目不保证及时维护，平替可以移步 https://yylogs.dreemurr.net
 ## 直接使用
 
 仅使用的话，从[最新版下载页](https://github.com/Liquidzk/LQ-yysls-logs/releases/latest) 下载 `win-x64.zip` 客户端压缩包，完整解压后，安装 Npcap，**以管理员身份运行** `燕云Logs.exe` 即可，无需自行构建。各功能操作见压缩包内的 `使用说明.md`。
@@ -11,7 +11,7 @@
 
 在线查看：[客户端使用说明](docs/客户端使用说明.md)。
 
-压缩包内附带战斗记录转换器：打开 `resources\YYLogs-Converter\LQ-YYLogs-Converter.exe`，可将已停止采集的记录转换为 `.yylogs`，操作方法见同目录 `README.md`。转换后记录可以传https://yylogs.dreemurr.net/分析。
+压缩包内附带战斗记录转换器：打开 `resources\YYLogs-Converter\LQ-YYLogs-Converter.exe`，可将已停止采集的记录转换为 `.yylogs`，操作方法见同目录 `README.md`。转换后记录可以传https://yylogs.dreemurr.net 分析。
 
 ### 安装 Npcap
 
